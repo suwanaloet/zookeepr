@@ -207,6 +207,17 @@
         "hungry"
       ],
       "id": "21"
+    },
+    {
+      "name": "Animal Test",
+      "species": "Test Species",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "22"
     }
   ]
 }
